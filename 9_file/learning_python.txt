@@ -1,3 +1,0 @@
-In Python you can use list.
-In Python you can use array.
-In Python you can use class.
